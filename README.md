@@ -2,5 +2,5 @@
 
 ## TODO
 
-- [] Update README
-- update code style and make it more modular
+- [ ] Update README
+- [ ] update code style and make it more modular
